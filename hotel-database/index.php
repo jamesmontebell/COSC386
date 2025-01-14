@@ -4,5 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hotel Database</title>
   </head>
-  <body></body>
+  <body>
+    <?php
+    echo "My first PHP script!";
+    ?>
+  </body>
 </html>
